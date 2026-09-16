@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, My name's Perfect 👋
 
-<!--
-**SailmanSeeulater/SailmanSeeulater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Bio-->
+Computer Science Student Senior at San Diego State University.
+I am a Full-Stack Developer looking to pivot into DevOps and love to learn about UI/UX Design
+<!--Portfolio Website-->
+www.latesailor.dev
+<!--Profile Views-->
+![Profile Views](https://komarev.com/ghpvc/?username=SailmanSeeulater)
+<!--Tech Stacks-->
+## Tech Stacks
+- ### Frontend
+- ### Backend
+- ### Data
+- ### Languages
+- ### Testing
+- ### DevOps & Cloud
+<!--Music Production Stack-->
+<!--Contact-->
+[Email](perfectphanitchaleun@gmail.com)
+[linkedin](https://www.linkedin.com/in/perfect-phanitchaleun/)
