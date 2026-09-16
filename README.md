@@ -11,7 +11,7 @@ www.latesailor.dev
 <!--Tech Stacks-->
 ## Tech Stacks
 - ### Frontend
-    - [![Frontend](https://skillicons.dev/icons?i=react,nextjs,js,typescript,html,css)](https://skillicons.dev)
+    [![Frontend](https://skillicons.dev/icons?i=react,nextjs,js,typescript,html,css)](https://skillicons.dev)
 - ### Backend
 - ### Data
 - ### Languages
