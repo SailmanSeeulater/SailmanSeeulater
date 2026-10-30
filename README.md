@@ -1,11 +1,17 @@
 ## Hi, My name's Perfect 👋
 
 <!--Bio-->
-Computer Science Student Senior at San Diego State University.
-I am a Full-Stack Developer looking to pivot into DevOps and love to learn about UI/UX Design
+Builder at Heart, **Backend engineer**.
+CS senior at San Diego State University.
+
 <!--Portfolio Website-->
 ### Porfolio Website
 www.latesailor.dev
+
+<!--Work-->
+- **[Mordi](https://github.com/SailmanSeeulater/Mordi)**: accountability app, live at [mordi.latesailor.dev](https://mordi.latesailor.dev). Spring Boot 3.5, Postgres with Flyway migrations, Redis, JWT auth and CI.
+- **[gitube](https://github.com/SailmanSeeulater/gitube)**: any GitHub repo or developer drawn as a tube map. [gitube.latesailor.dev](https://gitube.latesailor.dev)
+- **[nexTix](https://github.com/SailmanSeeulater/nextix)**: a ticket board that hands GitHub issues to coding agents in isolated Docker sandboxes and opens a PR for each. FastAPI, Celery workers, webhook sync, Next.js board.
 <!--Profile Views-->
 ![Profile Views](https://komarev.com/ghpvc/?username=SailmanSeeulater)
 <!--Tech Stacks-->
